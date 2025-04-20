@@ -1,6 +1,6 @@
 # 🧠 Demographic Data Analyzer
 
-This project is a simple data analysis task using the **Adult Income Dataset** . The aim is to extract insights from the data using **Python** and **Pandas**.
+This project is a data analysis project using the **Adult Income Dataset** . The aim is to extract insights from the data using **Python** and **Pandas**.
 
 ---
 
